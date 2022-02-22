@@ -1,7 +1,7 @@
 /**
  * Uso del tipo String
  *
- * @author Luis J. Sánchez
+
  */
 public class UsoDeStrings {
   public static void main(String[] args) {
