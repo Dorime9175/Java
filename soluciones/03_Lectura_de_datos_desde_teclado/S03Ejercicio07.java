@@ -3,8 +3,6 @@
  *
  * 7. Escribe un programa que calcule el total de una factura a partir
  *    de la base imponible.
- *
- * @author Luis José Sánchez
  */
 public class S03Ejercicio07 {
   public static void main(String[] args) {
