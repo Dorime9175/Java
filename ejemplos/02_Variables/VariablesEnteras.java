@@ -1,7 +1,5 @@
 /**
  * Uso de variables enteras
- *
- * @author Luis J. Sánchez
  */
 public class VariablesEnteras {
   public static void main(String[] args) {
