@@ -3,7 +3,7 @@
  *
  * Muestra varias palabras en el color que corresponde.
  *
- * @author Luis José Sánchez
+
  */
 public class TablaDeColores {
   public static void main(String[] args) {
