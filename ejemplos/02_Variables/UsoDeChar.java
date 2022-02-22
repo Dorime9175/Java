@@ -1,7 +1,7 @@
 /**
  * Uso del tipo char
  *
- * @author Luis J. Sánchez
+
  */
 public class UsoDeChar {
   public static void main(String[] args) {
