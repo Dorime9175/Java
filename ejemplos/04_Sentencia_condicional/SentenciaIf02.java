@@ -1,7 +1,5 @@
 /**
  * Sentencia if
- *
- * @author Luis J. Sánchez
  */
 public class SentenciaIf02 {
   public static void main(String[] args) {
