@@ -15,8 +15,6 @@
  *      Introduce la nota del primer examen: 8
  *      ¿Qué nota quieres sacar en el trimestre? 7
  *      Para tener un 7 en el trimestre necesitas sacar un 6.33 en el segundo examen.
- *
- * @author Luis José Sánchez
  */
 public class S03Ejercicio12 {
   public static void main(String[] args) {
