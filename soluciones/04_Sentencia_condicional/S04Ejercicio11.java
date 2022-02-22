@@ -3,8 +3,6 @@
  *
  * 11. Escribe un programa que dada una hora determinada (horas y minutos),
  *     calcule los segundos que faltan para llegar a la medianoche.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio11 {
 
