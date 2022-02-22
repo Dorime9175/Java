@@ -3,7 +3,6 @@
  *
  * 13. Escribe un programa que ordene tres números enteros introducidos por teclado.
  *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio13 {
 
