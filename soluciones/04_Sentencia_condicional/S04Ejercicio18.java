@@ -3,8 +3,6 @@
  *
  * 18. Escribe un programa que diga cuál es la primera cifra de un número
  *     entero introducido por teclado. Se permiten números de hasta 5 cifras.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio18 {
 
