@@ -1,7 +1,5 @@
 /**
  * Sentencia if
- *
- * @author Luis J. Sánchez
  */
 public class ComparacionCadena {
   public static void main(String[] args) {
