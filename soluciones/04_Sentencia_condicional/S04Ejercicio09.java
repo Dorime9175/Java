@@ -3,8 +3,6 @@
  *
  * 9. Realiza un programa que resuelva una ecuación de segundo grado
  *    (del tipo ax2 + bx + c = 0).
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio09 {
 
