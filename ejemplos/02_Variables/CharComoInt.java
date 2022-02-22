@@ -1,7 +1,7 @@
 /**
  * Correspondencia entre los tipos char e int
  *
- * @author Luis J. Sánchez
+ 
  */
 public class CharComoInt {
   public static void main(String[] args) {
