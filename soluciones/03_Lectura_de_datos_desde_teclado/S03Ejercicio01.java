@@ -3,8 +3,6 @@
  *
  * 1. Realiza un programa que pida dos números y que luego muestre el
  *    resultado de su multiplicación.
- *
- * @author Luis José Sánchez
  */
 public class S03Ejercicio01 {
   public static void main(String[] args) {
