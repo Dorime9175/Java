@@ -1,6 +1,4 @@
-/**
- * Salida formateada
- *
+
 
 public class SalidaFormateada01 {
   public static void main(String[] args) {
