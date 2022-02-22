@@ -7,8 +7,6 @@
  *     usuario mediante un menú elegir si el vértice de la pirámide está
  *     apuntando hacia arriba, hacia abajo, hacia la izquierda o hacia la
  *     derecha.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio15 {
 
