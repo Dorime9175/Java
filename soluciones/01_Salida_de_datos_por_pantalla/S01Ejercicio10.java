@@ -2,8 +2,6 @@
  * 1. Salida por pantalla
  *
  * 10. Mejora el ejercicio anterior añadiéndole colores.
- *
- * @author Luis José Sánchez
  */
 public class S01Ejercicio10 {
   public static void main(String[] args) {
