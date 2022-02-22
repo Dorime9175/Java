@@ -6,8 +6,6 @@
  *    Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5
  *    respectivamente. Sólo se tienen en cuenta las horas, los minutos
  *    no se deben introducir por teclado.
- *
- * @author Luis José Sánchez
  */
 
 public class S04Ejercicio02 {
