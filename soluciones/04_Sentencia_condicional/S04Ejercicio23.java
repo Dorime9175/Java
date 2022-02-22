@@ -21,8 +21,6 @@
  *     Precio con IVA        27.50
  *     Cód. promo. (mitad): -13.75
  *     TOTAL                 13.75
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio23 {
   public static void main(String[] args) {
