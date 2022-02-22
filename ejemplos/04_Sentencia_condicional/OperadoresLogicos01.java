@@ -1,7 +1,5 @@
 /**
  * Operadores lógicos
- *
- * @author Luis J. Sánchez
  */
 public class OperadoresLogicos01 {
   public static void main(String[] args) {
