@@ -6,8 +6,6 @@
  *    semanal de un trabajador teniendo en cuenta que las horas
  *    ordinarias (40 primeras horas de trabajo) se pagan a 12 euros la
  *    hora. A partir de la hora 41, se pagan a 16 euros la hora.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio04 {
   public static void main(String[] args) {
