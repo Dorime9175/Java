@@ -1,7 +1,5 @@
 /**
 * Lectura de datos desde teclado
-*
-* @author Luis J. Sánchez
 */
 public class LeeNumeros {
   public static void main(String[] args) {
