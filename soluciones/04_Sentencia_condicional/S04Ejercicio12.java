@@ -7,8 +7,6 @@
  *     obtenida. Pásale el minicuestionario a tus compañeros y pídeles
  *     que lo hagan para ver qué tal andan de conocimientos en las
  *     diferentes asignaturas del curso.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio12 {
 
