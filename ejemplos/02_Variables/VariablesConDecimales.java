@@ -1,7 +1,7 @@
 /**
  * Uso de variables que contienen números decimales
  *
- * @author Luis J. Sánchez
+
  */
 public class VariablesConDecimales {
   public static void main(String[] args) {
