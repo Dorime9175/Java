@@ -7,8 +7,6 @@ import java.util.Scanner;
  * Capítulo 4. Sentencia condicional.
  * 
  * Ejercicio 25
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio25 {
 
