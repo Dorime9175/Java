@@ -3,9 +3,6 @@
  *
  * Solución al ejercicio 3.
  * 
- * "Aprende Java con Ejercicios" (https://leanpub.com/aprendejava)
- *
- * @author Luis José Sánchez
  */
 public class S01Ejercicio03 {
   public static void main(String[] args) {
