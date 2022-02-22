@@ -21,8 +21,6 @@
  *     Nota del segundo control: 3
  *     ¿Cuál ha sido el resultado de la recuperación? (apto/no apto): apto
  *     Tu nota de Programación es 5
- *
- * @author Luis José Sánchez
  */
 
 public class S04Ejercicio21 {
