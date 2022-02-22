@@ -6,8 +6,6 @@
  *     semana. Se considerará que el fin de semana comienza el viernes a las 15:00h.
  *     Se da por hecho que el usuario introducirá un día y hora correctos,
  *     anterior al viernes a las 15:00h.
- *
- * @author Luis José Sánchez
  */
 
 public class S04Ejercicio22 {
