@@ -1,7 +1,6 @@
 /**
  * Ejemplo de un menú con switch
- *
- * @author Luis José Sánchez
+
  */
 public class MenuConSwitch {
   public static void main(String[] args) {
