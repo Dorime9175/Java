@@ -5,8 +5,6 @@
  * Capítulo 4. Sentencia condicional.
  * 
  * Ejercicio 24
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio24 {
   public static void main(String[] args) {
