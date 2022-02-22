@@ -3,7 +3,6 @@
  *
  * Muestra varias palabras en el color que corresponde.
  *
- * @author Luis José Sánchez
  */
 public class ColoresConVariables {
   public static void main(String[] args) {
