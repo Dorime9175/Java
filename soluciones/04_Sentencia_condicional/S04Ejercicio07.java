@@ -2,8 +2,6 @@
  * 4. Sentencia Condicional
  *
  * 7. Realiza un programa que calcule la media de tres notas.
- *
- * @author Luis José Sánchez
  */
 public class S04Ejercicio07 {
 
