@@ -8,8 +8,6 @@
  *     Las preguntas contestadas con f no suman puntos. Utiliza el
  *     fichero test_infidelidad.txt para obtener las preguntas y las
  *     conclusiones del programa.
- *
- * @author Luis José Sánchez
  * 
  */
 public class S04Ejercicio16 {
