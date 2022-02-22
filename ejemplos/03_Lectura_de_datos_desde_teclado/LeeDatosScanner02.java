@@ -3,7 +3,6 @@ import java.util.Scanner;
 /**
  * Lectura de datos desde teclado usando la clase Scanner
  *
- * @author Luis J. Sánchez
  */
 public class LeeDatosScanner02 {
   public static void main(String[] args) {
